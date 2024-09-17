@@ -1,6 +1,7 @@
 # CustomLaTeXBot [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/fatmaann/CustomLaTeXBot/blob/main/README.en.md)<br>
 <b>Курсовая работа - Генератор документации «Mentors Joy».<br>
-Telegram - бот для создания PDF ГОСТ документации для сдачи дипломных и курсовых работ</b>.
+Telegram - бот для создания PDF ГОСТ документации для сдачи дипломных и курсовых работ</b>.<br>
+<b>Aiogram, Latex, PyLatex, Pdflatex.exe, Ngrok, Redis</b>
 
 ## Актуальность
 
